@@ -1,6 +1,6 @@
 <H3>NAME: KOUSALYA A.</H3>
 <H3>REGISTER NO: 212222230068</H3>
-
+<H3>EXP NO: 6</H3>
 ## <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
